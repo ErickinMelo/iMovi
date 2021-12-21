@@ -1,0 +1,2 @@
+-Projeto de um site padrão moderno, utilizando  a abordagem "mobile first" na criação.
+-Utilizado o Bootstrap 5 na criação deste projeto.
